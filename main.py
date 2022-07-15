@@ -1,3 +1,4 @@
+#10 examples on class
 import logging
 logging.basicConfig(filename="classTask.log",level=logging.DEBUG)
 class ineuron_students1:
